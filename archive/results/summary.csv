@@ -1,0 +1,2 @@
+student_id,last_name,first_name,notebook_id,score,max_score,archive,duplicate
+12345,Student,Sample,294ea7b1daf559bc5b06363d6302aa3a61a8f499fa4afba6e892c7a82e2a39fe,9.45,11.0,results-Student-294ea7b1.zip,False
